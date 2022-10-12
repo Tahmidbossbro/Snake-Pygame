@@ -12,7 +12,7 @@ class Snake:
         self.screen = surface
         self.flickering_animation = False
         self.extension_req = False
-        self.snake_length = 10
+        self.snake_length = 3
         self.GO_FORWARD = 20
         self.GO_UP = 0
         self.snake_data = []
